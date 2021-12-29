@@ -4,12 +4,10 @@
 
 ## Basics
 
-* [Styles](basics/styles/README.md)
-  * [Colors](basics/styles/colors.md)
-  * [Typography](basics/styles/typography.md)
-* [Icons](basics/icons.md)
-* [Components](basics/components/README.md)
-  * [AvatarStack](basics/components/avatarstack.md)
-  * [Button](basics/components/button.md)
-
-## Basics
+* [기술](basics/tech/README.md)
+  * [frontend](basics/tech/frontend.md)
+  * [backend](basics/tech/backend.md)
+  * [cloud](basics/tech/cloud.md)
+* [생활](basics/life/README.md)
+  * 
+  * 
