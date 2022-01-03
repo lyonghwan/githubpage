@@ -5,9 +5,8 @@
 ## Basics
 
 * [기술](basics/tech/README.md)
-  * [frontend](basics/tech/frontend.md)
-  * [backend](basics/tech/backend.md)
-  * [cloud](basics/tech/cloud.md)
+  * [통합검색(FULL TEXT SEARCH)](basics/tech/full_text_search.md)
+  * [CQRS](basics/tech/CQRS.md)
 * [생활](basics/life/README.md)
   * 
   * 
