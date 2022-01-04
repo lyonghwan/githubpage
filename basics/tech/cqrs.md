@@ -18,7 +18,7 @@ Command and Query Responsibility Segregation
 
 * 기존 패턴
 
-![읽기 및 쓰기 저장소가 집중됨 ](https://docs.microsoft.com/ko-kr/azure/architecture/patterns/\_images/command-and-query-responsibility-segregation-cqrs-tradition-crud.png)
+![읽기 및 쓰기 저장소가 집중됨](https://docs.microsoft.com/ko-kr/azure/architecture/patterns/\_images/command-and-query-responsibility-segregation-cqrs-tradition-crud.png)
 
 ***
 
@@ -43,11 +43,12 @@ Command and Query Responsibility Segregation
 
 * Kafka Flow
 
-![](cdc-flow.png)
+  ![](cdc-flow.png)
 
 * Source connector With Kafka
 
-![](cdc-source-connector.png)
+  ![](cdc-source-connector.png)
+
 
 * Sink Connector with kafka
   ![](cdc-sink-connector.png)
