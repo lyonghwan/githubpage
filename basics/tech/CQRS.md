@@ -33,11 +33,11 @@
 
 * Event Driven Architecture을 활용한 CQRS
   *    Event Driven Architecture Style
-       ![이벤트 기반 아키텍처 스타일의 다이어그램](https://docs.microsoft.com/ko-kr/azure/architecture/guide/architecture-styles/images/event-driven.svg)
+       ![이벤트 기반 아키텍처 스타일의 다이어그램](./event-driven.svg)
   * Kafka Flow
-    <img title="" src="https://hyperconnect.github.io/assets/2021-01-04-cdc-platform/cdc-flow.png" alt="cdc-flow" width="595">
+    <img title="" src="./cdc-flow.png" alt="cdc-flow" width="595">
   * CDC With Kafka
-    ![cdc-platform](https://hyperconnect.github.io/assets/2021-01-04-cdc-platform/cdc-platform.png)
+    ![cdc-platform](./cdc-platform.png)
     keyword : 
     
     ```
