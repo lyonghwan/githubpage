@@ -50,7 +50,7 @@ Command and Query Responsibility Segregation
 ![](cdc-source-connector.png)
 
 * Sink Connector with kafka
-![](cdc-sink-connector.png)
+  ![](cdc-sink-connector.png)
 
 * keyword :
 
@@ -58,6 +58,7 @@ Command and Query Responsibility Segregation
 AWS,
 confluentinc,
 confluent-hub, 
+
 cp-kafka-connect-base, 
 kafka-connect-elasticsearch-source
 kafka-connect-elasticsearch
