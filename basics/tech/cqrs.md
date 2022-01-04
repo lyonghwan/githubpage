@@ -14,7 +14,7 @@ Command and Query Responsibility Segregation
 * 애플리케이션에서 CQRS를 구현하면 성능, 확장성 및 보안을 최대화
 * CQRS로 마이그레이션하여 생성되는 유연성을 통해 시스템은 시간이 지남에 따라 개선되고 업데이트 명령으로 인해 도메인 수준에서 병합 충돌이 발생하지 않도록 방지 가능
 
-## 기존 패턴과 비교 &#x20;
+## 기존 패턴과 비교
 
 * 기존 패턴
 
@@ -33,17 +33,24 @@ Command and Query Responsibility Segregation
 
 ## Event Driven Architecture을 활용한 CQRS
 
-* Event Driven Architecture Style &#x20;
+* Event Driven Architecture Style
 
 ![](event-driven.png)
+
+* Kafaka Event sourcing based architecture(Sample)
+
+![event-sourced-based-architecture](https://cdn.confluent.io/wp-content/uploads/2016/09/Event-sourced-based-architecture.jpeg)
 
 * Kafka Flow
 
 ![](cdc-flow.png)
 
-* CDC With Kafka&#x20;
+* Source connector With Kafka
 
-![](cdc-platform.png)
+![](cdc-source-connector.png)
+
+* Sink Connector with kafka
+![](cdc-sink-connector.png)
 
 * keyword :
 
