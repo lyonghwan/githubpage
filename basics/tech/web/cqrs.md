@@ -1,7 +1,7 @@
 ---
-description: 본 페이지에서는 elastic search를 활용한 Full Text 기능을 알아 본다.
 author: jonny park
 date: 2022-01-03T00:00:00.000Z
+description: 본 페이지에서는 elastic search를 활용한 Full Text 기능을 알아 본다.
 ---
 
 # CQRS
@@ -35,24 +35,19 @@ Command and Query Responsibility Segregation
 
 * Event Driven Architecture Style
 
-![](event-driven.png)
+![](../event-driven.png)
 
 * Kafaka Event sourcing based architecture(Sample)
 
 ![event-sourced-based-architecture](https://cdn.confluent.io/wp-content/uploads/2016/09/Event-sourced-based-architecture.jpeg)
 
-* Kafka Flow
+*   Kafka Flow
 
-  ![](cdc-flow.png)
+    <img src="../cdc-flow.png" alt="" data-size="original">
+*   Source connector With Kafka
 
-* Source connector With Kafka
-
-  ![](cdc-source-connector.png)
-
-
-* Sink Connector with kafka
-  ![](cdc-sink-connector.png)
-
+    <img src="../cdc-source-connector.png" alt="" data-size="original">
+* Sink Connector with kafka ![](../cdc-sink-connector.png)
 * keyword :
 
 ```
